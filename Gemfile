@@ -11,6 +11,7 @@ gem "sqlite3", "~> 1.4"
 gem "puma", "~> 5.0"
 gem "rack-cors"
 gem "devise"
+gem "simple_token_authentication"
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 # gem 'jbuilder', '~> 2.7'
 # Use Redis adapter to run Action Cable in production
